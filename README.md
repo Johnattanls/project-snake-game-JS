@@ -1,2 +1,2 @@
 # project-snake-game-JS
-Snake game made with JS - DIO
+Snake game made in JS - DIO
